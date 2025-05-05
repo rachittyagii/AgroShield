@@ -1,0 +1,20 @@
+PORT = 5001
+dbURL = mongodb+srv://agrishieldofficial:9275@agrishield.ygzby.mongodb.net/?retryWrites=true&w=majority&appName=AgriShield
+SESSION_SECRET = eac6d37576fdd2b798034191e741cbeac4fe1e63130091820b73e000dbe2edbff26cfe59440a0b3963778a2579da108d79e577183e504d3e0c2f639d323427f0
+COOKIE_SECRET = e7f721000e23c665bd5ab9b7b9b4d1c138c15c224bab97cc7647075b4447a01f868118442cbc4597f2665d14465165e247b9c63515769082b46d1229f76d0f43
+clientID =23761730628-imkrtt4l4r48a9mid45jnhljjob5sepa.apps.googleusercontent.com
+clientSecret = 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
+CLOUDINARY_CLOUD_NAME = drnc9odmw
+CLOUDINARY_API_KEY = 183126453738214
+CLOUDINARY_API_SECRET = zfq9eIfXINbsZj9nfpjOfsjXXk4
+CLOUDINARY_URL=cloudinary://183126453738214:zfq9eIfXINbsZj9nfpjOfsjXXk4@drnc9odmw
+JWT_SECRET = 1ea9cb0baf6c282090d198885d6bfaa1656c382b0a749224b8ec15f4650b5a4a2d81e199326def3bec2e46718819b5e41270c086540e88f28f4cd35ab25d232c
+VERIFICATION_URL = http://localhost:5173
+AGRISHIELD_EMAIL = agrishield.official@gmail.com
+AGRISHIELD_EMAIL_PASSWORD = "alfg emfv zyvz advn"
+OPENCAGE_LOCATION_API_KEY =f6ed4db45ca8423ea3ac5e08f9a84106
+AWS_S3_URL = "https://yash-image-storage-bucket.s3.eu-north-1.amazonaws.com/crops"
+CLIENT_URL = "http://localhost:5173"
+PRODUCTION_CLIENT_URL = "agrishield.vercel.app"
+RAZORPAY_KEY_ID = rzp_test_LD0okgqz4LiOB0
+RAZORPAY_KEY_SECRET = SnTr5NFFkvChLe6WysKrqx9S
