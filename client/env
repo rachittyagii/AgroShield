@@ -4,5 +4,5 @@ VITE_SERVER_URL ="http://localhost:5001"
 VITE_EMAIL_JS_SERVICE_ID = service_130kw44
 VITE_EMAIL_JS_USER_ID = dgPKOZ0kVvq5T2u8f
 VITE_EMAIL_JS_CONTACT_US_TEMPLATE_ID = template_8zvm73k
-VITE_AGRISHIELD_EMAIL = agrishield.official@gmail.com
+VITE_AGRISHIELD_EMAIL = contactwithrachittyagi@gmail.com
 VITE_RAZORPAY_KEY_ID = rzp_test_LD0okgqz4LiOB0
