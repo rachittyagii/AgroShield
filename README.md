@@ -26,13 +26,6 @@ By fostering transparency, market stability, and efficiency, AgriShield empowers
 
 **[Visit AgriShield](https://agrishield.vercel.app)**
 
----
-
-## 🎥 Demo Video
-
-Watch AgriShield in action:
-
-**[AgriShield Demo](https://your-demo-video-link-here)**
 
 ---
 
@@ -43,17 +36,6 @@ Watch AgriShield in action:
 - Node.js (v14 or higher)
 - MongoDB
 - Git
-
-### 1. Fork & Clone the Repository
-
-**Fork the Repository:**
-- Navigate to the repository URL and click the **Fork** button
-
-**Clone Your Forked Repository:**
-```bash
-git clone https://github.com/ujjwallsrivastavaa/AgriShield
-cd AgriShield
-```
 
 ---
 
